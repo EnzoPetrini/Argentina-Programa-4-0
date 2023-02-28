@@ -1,0 +1,14 @@
+	No puedo decir que este portafolio me pertenece en su totalidad ya que recibí mucha ayuda de amigos que trabajan como programadores,
+a los cuales estoy eternamente agradecido por su apoyo.
+	Se extrajo informacion de fuentes como:
+-Freecodecamp
+-OdinProyect
+-w3school
+-Css cheatsheet
+-html cheatsheet
+-Udemy
+-platzi
+-youtube
+
+	Las imagenes y el boceto de la pagina se retocaron con Figma.
+	Se tomaron aproximadamente 35 tazas de café durante el desarrollo de este proyecto.
